@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ckit/static/css/main.3074cff4.chunk.css",
+    "main.js": "/ckit/static/js/main.f3ab7d33.chunk.js",
+    "main.js.map": "/ckit/static/js/main.f3ab7d33.chunk.js.map",
+    "runtime-main.js": "/ckit/static/js/runtime-main.370f0adb.js",
+    "runtime-main.js.map": "/ckit/static/js/runtime-main.370f0adb.js.map",
+    "static/js/2.db4d1d73.chunk.js": "/ckit/static/js/2.db4d1d73.chunk.js",
+    "static/js/2.db4d1d73.chunk.js.map": "/ckit/static/js/2.db4d1d73.chunk.js.map",
+    "static/js/3.b7e9dac8.chunk.js": "/ckit/static/js/3.b7e9dac8.chunk.js",
+    "static/js/3.b7e9dac8.chunk.js.map": "/ckit/static/js/3.b7e9dac8.chunk.js.map",
+    "index.html": "/ckit/index.html",
+    "static/css/main.3074cff4.chunk.css.map": "/ckit/static/css/main.3074cff4.chunk.css.map",
+    "static/js/2.db4d1d73.chunk.js.LICENSE.txt": "/ckit/static/js/2.db4d1d73.chunk.js.LICENSE.txt",
+    "static/media/App.less": "/ckit/static/media/Lato-Regular.9919edff.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.370f0adb.js",
+    "static/js/2.db4d1d73.chunk.js",
+    "static/css/main.3074cff4.chunk.css",
+    "static/js/main.f3ab7d33.chunk.js"
+  ]
+}
