@@ -820,6 +820,7 @@ test('deposit sudt cheque and claim it', async () => {
   eqAmount(await provider.getUdtBalance(receiver.getAddress(), sudt), 500);
 });
 
+<<<<<<< HEAD
 // test this case with Tippy
 test.skip('test withdraw cheque', async () => {
   const provider = new TestProvider();
@@ -868,6 +869,8 @@ test.skip('test withdraw cheque', async () => {
   await provider.sendTransaction(unsignedWithdrawTx);
 });
 
+=======
+>>>>>>> nervos/cheque
 // TODO impl testcase
 test.skip('test duplicate options', async () => {
   return;
